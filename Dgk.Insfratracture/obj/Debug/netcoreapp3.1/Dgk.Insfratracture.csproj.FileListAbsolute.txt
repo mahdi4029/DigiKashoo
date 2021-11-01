@@ -1,0 +1,10 @@
+C:\Users\Greenrayane\Desktop\portfolio\DigiKashoo\Dgk.Insfratracture\bin\Debug\netcoreapp3.1\Dgk.Insfratracture.deps.json
+C:\Users\Greenrayane\Desktop\portfolio\DigiKashoo\Dgk.Insfratracture\bin\Debug\netcoreapp3.1\Dgk.Insfratracture.dll
+C:\Users\Greenrayane\Desktop\portfolio\DigiKashoo\Dgk.Insfratracture\bin\Debug\netcoreapp3.1\Dgk.Insfratracture.pdb
+C:\Users\Greenrayane\Desktop\portfolio\DigiKashoo\Dgk.Insfratracture\obj\Debug\netcoreapp3.1\Dgk.Insfratracture.csprojAssemblyReference.cache
+C:\Users\Greenrayane\Desktop\portfolio\DigiKashoo\Dgk.Insfratracture\obj\Debug\netcoreapp3.1\Dgk.Insfratracture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Greenrayane\Desktop\portfolio\DigiKashoo\Dgk.Insfratracture\obj\Debug\netcoreapp3.1\Dgk.Insfratracture.AssemblyInfoInputs.cache
+C:\Users\Greenrayane\Desktop\portfolio\DigiKashoo\Dgk.Insfratracture\obj\Debug\netcoreapp3.1\Dgk.Insfratracture.AssemblyInfo.cs
+C:\Users\Greenrayane\Desktop\portfolio\DigiKashoo\Dgk.Insfratracture\obj\Debug\netcoreapp3.1\Dgk.Insfratracture.csproj.CoreCompileInputs.cache
+C:\Users\Greenrayane\Desktop\portfolio\DigiKashoo\Dgk.Insfratracture\obj\Debug\netcoreapp3.1\Dgk.Insfratracture.dll
+C:\Users\Greenrayane\Desktop\portfolio\DigiKashoo\Dgk.Insfratracture\obj\Debug\netcoreapp3.1\Dgk.Insfratracture.pdb

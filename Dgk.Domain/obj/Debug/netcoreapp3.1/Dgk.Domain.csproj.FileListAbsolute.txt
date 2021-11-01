@@ -1,0 +1,10 @@
+C:\Users\Greenrayane\Desktop\portfolio\DigiKashoo\Dgk.Domain\bin\Debug\netcoreapp3.1\Dgk.Domain.deps.json
+C:\Users\Greenrayane\Desktop\portfolio\DigiKashoo\Dgk.Domain\bin\Debug\netcoreapp3.1\Dgk.Domain.dll
+C:\Users\Greenrayane\Desktop\portfolio\DigiKashoo\Dgk.Domain\bin\Debug\netcoreapp3.1\Dgk.Domain.pdb
+C:\Users\Greenrayane\Desktop\portfolio\DigiKashoo\Dgk.Domain\obj\Debug\netcoreapp3.1\Dgk.Domain.csprojAssemblyReference.cache
+C:\Users\Greenrayane\Desktop\portfolio\DigiKashoo\Dgk.Domain\obj\Debug\netcoreapp3.1\Dgk.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Greenrayane\Desktop\portfolio\DigiKashoo\Dgk.Domain\obj\Debug\netcoreapp3.1\Dgk.Domain.AssemblyInfoInputs.cache
+C:\Users\Greenrayane\Desktop\portfolio\DigiKashoo\Dgk.Domain\obj\Debug\netcoreapp3.1\Dgk.Domain.AssemblyInfo.cs
+C:\Users\Greenrayane\Desktop\portfolio\DigiKashoo\Dgk.Domain\obj\Debug\netcoreapp3.1\Dgk.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Greenrayane\Desktop\portfolio\DigiKashoo\Dgk.Domain\obj\Debug\netcoreapp3.1\Dgk.Domain.dll
+C:\Users\Greenrayane\Desktop\portfolio\DigiKashoo\Dgk.Domain\obj\Debug\netcoreapp3.1\Dgk.Domain.pdb

@@ -1,0 +1,13 @@
+C:\Users\Greenrayane\Desktop\portfolio\DigiKashoo\Dgk.Application\bin\Debug\netcoreapp3.1\Dgk.Application.deps.json
+C:\Users\Greenrayane\Desktop\portfolio\DigiKashoo\Dgk.Application\bin\Debug\netcoreapp3.1\Dgk.Application.dll
+C:\Users\Greenrayane\Desktop\portfolio\DigiKashoo\Dgk.Application\bin\Debug\netcoreapp3.1\Dgk.Application.pdb
+C:\Users\Greenrayane\Desktop\portfolio\DigiKashoo\Dgk.Application\bin\Debug\netcoreapp3.1\Dgk.Domain.dll
+C:\Users\Greenrayane\Desktop\portfolio\DigiKashoo\Dgk.Application\bin\Debug\netcoreapp3.1\Dgk.Domain.pdb
+C:\Users\Greenrayane\Desktop\portfolio\DigiKashoo\Dgk.Application\obj\Debug\netcoreapp3.1\Dgk.Application.csprojAssemblyReference.cache
+C:\Users\Greenrayane\Desktop\portfolio\DigiKashoo\Dgk.Application\obj\Debug\netcoreapp3.1\Dgk.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Greenrayane\Desktop\portfolio\DigiKashoo\Dgk.Application\obj\Debug\netcoreapp3.1\Dgk.Application.AssemblyInfoInputs.cache
+C:\Users\Greenrayane\Desktop\portfolio\DigiKashoo\Dgk.Application\obj\Debug\netcoreapp3.1\Dgk.Application.AssemblyInfo.cs
+C:\Users\Greenrayane\Desktop\portfolio\DigiKashoo\Dgk.Application\obj\Debug\netcoreapp3.1\Dgk.Application.csproj.CoreCompileInputs.cache
+C:\Users\Greenrayane\Desktop\portfolio\DigiKashoo\Dgk.Application\obj\Debug\netcoreapp3.1\Dgk.Application.csproj.CopyComplete
+C:\Users\Greenrayane\Desktop\portfolio\DigiKashoo\Dgk.Application\obj\Debug\netcoreapp3.1\Dgk.Application.dll
+C:\Users\Greenrayane\Desktop\portfolio\DigiKashoo\Dgk.Application\obj\Debug\netcoreapp3.1\Dgk.Application.pdb
